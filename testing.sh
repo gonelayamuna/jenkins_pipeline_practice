@@ -1,3 +1,4 @@
 #! /bin/bash
 
-echo "Total value is " $1+$2
+sum=$1+$2
+echo "Total value is " $sum
